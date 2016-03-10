@@ -1,2 +1,3 @@
 # hello-world
-My first use of GH
+This is Roger.
+And this is my first use of GH
